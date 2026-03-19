@@ -1,6 +1,1 @@
 streamlit
-numpy
-pillow
-requests
-opencv-python-headless
-mediapipe
